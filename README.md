@@ -1,2 +1,2 @@
 # hello-world
-first github repository
+I'm a PhD student in particle physics at ULB-Brussels.
